@@ -1,0 +1,9 @@
+# Ignore system files
+.DS_Store
+
+# Ignore node_modules (if you use JavaScript frameworks later)
+node_modules/
+
+# Ignore any Python or backend files in the future
+__pycache__/
+venv/
